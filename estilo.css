@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.italiana-regular {
+font-family: "Italiana", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+  
+.body {
+min-height: 100vh;
+background: #B6DDF4;
+
+}
+
+
+.Index {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+.OpcionesPrincipales {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+.RegistrarObjeto {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+
+.ModificarObjeto {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+
+.ListarObjetos {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+
+}
+
+.RegistrarEspacioCurricular {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+.ModificarEspacioCurricular {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+.RegistrarMaterial {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+.ModificarMaterial {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+.RegistrarFuncion {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
+
+.ModificarFuncion {
+font-family:  
+font-weight: ;
+font-style: ;
+color: ;
+}
